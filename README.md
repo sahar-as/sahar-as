@@ -9,7 +9,7 @@
 Welcome to my page.
 * 🔭 I am an Android Developer who loves her job. As a self-taught programmer I have implement many Apps that give me a good understanding and knowledge of analysis, design, coding, testing and deployment, and also made me a good problem-solver.
 * 🌱 I’m currently learning any thing about Android.
-* 👯 I’m looking to collaborate on Android
+* 👯 I’m looking to collaborate on Android projects with new idea
 * 📝 I regulary write articles about Android on [Medium Websitee](https://medium.com/@sahar.asadian90)
 * 📫 How to reach me:  </br></br>
 [![icons8-linkedin-48](https://user-images.githubusercontent.com/63088252/204487161-30f8b2cb-28c1-4100-8968-dd4e4d6289b2.png)](https://www.linkedin.com/in/sahar-asadian/)
