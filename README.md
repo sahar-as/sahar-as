@@ -14,7 +14,7 @@ Welcome to my page.
 * 📫 How to reach me:  </br></br>
 [![icons8-linkedin-48](https://user-images.githubusercontent.com/63088252/204487161-30f8b2cb-28c1-4100-8968-dd4e4d6289b2.png)](https://www.linkedin.com/in/sahar-asadian/)
 [![icons8-stack-overflow-is-a-question-and-answer-site-for-professional-48](https://user-images.githubusercontent.com/63088252/204490837-3b0f8e34-029b-4ab8-aa7e-8026115e96d1.png)](https://stackoverflow.com/users/12189679/sahar-asadian)
-[![icons8-gmail-logo-48](https://user-images.githubusercontent.com/63088252/204491561-184a5547-98b2-42ea-9774-81e616e8bd9d.png)](sahar.asadian90@gmail.com)
+[![icons8-gmail-logo-48](https://user-images.githubusercontent.com/63088252/204491561-184a5547-98b2-42ea-9774-81e616e8bd9d.png)](mailto:sahar.asadian90@gmail.com)
 
 
 
