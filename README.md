@@ -4,7 +4,8 @@
 </p>
 
 ### Hi I'm Sahar 👋
-An Android Developer passionate about building high-quality apps using Kotlin, Jetpack Compose, KMP and modern architectures. 🚀 Always exploring new technologies to craft seamless user experiences. Let's connect and create something amazing! a
+An Android Developer passionate about building high-quality apps using Kotlin, Jetpack Compose, KMP and modern architectures. 🚀 Always exploring new technologies to craft seamless user experiences. Let's connect and create something amazing! 
+* 🔭 I’m currently working on Telewebion
 * 📝 I regulary write articles about Android on [Medium Website](https://medium.com/@sahar.asadian90)
 * 📫 How to reach me:  </br></br>
 [![icons8-linkedin-48](https://user-images.githubusercontent.com/63088252/204487161-30f8b2cb-28c1-4100-8968-dd4e4d6289b2.png)](https://www.linkedin.com/in/sahar-asadian/)
