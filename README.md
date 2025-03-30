@@ -5,6 +5,10 @@
   <img src="https://user-images.githubusercontent.com/63088252/204479638-70b4b9a8-09a2-4a1e-ad19-96a77e48f489.png" />
 </p>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f1de2753-903a-4a86-9845-61ec2c036fbc" />
+</p>
+
 
 Welcome to my page.
 * 🔭 I am an Android Developer who loves her job. As a self-taught programmer I have implement many Apps that give me a good understanding and knowledge of analysis, design, coding, testing and deployment, and also made me a good problem-solver.
